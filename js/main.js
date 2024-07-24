@@ -22,7 +22,7 @@ var swiperAbout = new Swiper(".about__slider", {
   freeMode: true,
 
   autoplay: {
-    delay: 3500,
+    delay: 2500,
     disableOnInteraction: false,
   },
   navigation: {
