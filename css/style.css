@@ -66,6 +66,11 @@ body {
   margin-right: 185px;
 }
 
+.menu__list {
+  display: flex;
+  flex-direction: column;
+}
+
 .menu__item {
   font-size: 12px;
   margin-bottom: 10px;
@@ -209,6 +214,7 @@ body {
 
 .about__arrow {
   margin-left: -198px;
+  margin-top: -6px;
 }
 
 .accordeon {
