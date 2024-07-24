@@ -639,11 +639,19 @@ body {
     padding-bottom: 10px;
   }
 
+  .product__title {
+    display: none;
+  }
+
+  .product__items {
+    left: 0;
+  }
+
   .product__item {
-    width: 75%;
+    width: 60%;
   }
   .product__item-img {
-    width: 65%;
+    width: 40%;
   }
 }
 
@@ -673,10 +681,10 @@ body {
   }
 
   .product__item {
-    width: 85%;
+    width: 65%;
   }
   .product__item-img {
-    width: 80%;
+    width: 50%;
   }
 }
 
